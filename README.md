@@ -1,4 +1,4 @@
-# babel-plugin-css-modules-transform [Babel 6 only]
+# babel-plugin-css-modules-transform
 
 [![Circle CI](https://circleci.com/gh/michalkvasnicak/babel-plugin-css-modules-transform.svg?style=svg)](https://circleci.com/gh/michalkvasnicak/babel-plugin-css-modules-transform)
 
